@@ -10,11 +10,11 @@ TeamLeader：Rodster（看雪ID：leixyou）
 |编号|文章|来源网址|担当|依赖日期|交稿日期|校对|发布日期|QQ群|公众号|看雪|知乎|微博
 |:------------:|:-------------:|:-----:|:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1|MacOS and iOS Internals, Volume III: Security & Insecurity|http:// newosxbook.com /files/moxii3 /AppendixA.pdf|rodster@ccav10.cn(727542262) everettjf@live.com(276751551)|2016/10/8|2016/10/17|NULL|2016/10/22|OK|OK|OK|OK|OK|
-|2|Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656)|http://jndok.github.io/2016/10/04/pegasus-writeup/|rodster@ccav10.cn(727542262)|2016/10/9|2016/10/17|NULL|2016/10/18 2016/10/20||OK||OK|OK|
-|3| 海马iOS应用商店助手各种恶意行为的研究 Helper for Haima iOS App Store Adds More Malicious Behavior |http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior/|rodster@ccav10.cn(727542262)|2016/10/9|2016/10/20|NULL|2016/10/24||OK||OK|OK|
-|4| 未越狱状态下的iOS插桩：iOS instrumentation without jailbreak |https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/|rodster@ccav10.cn(727542262)|2016/10/13|2016/10/23|NULL|2016/10/28||OK||||
-|5| iOS软件在运行时究竟做了什么：Introspy-iOS |https://github.com/integrity-sa/Introspy-iOS|try_fly:247498009|2016/10/17|2016/10/20|NULL|2016/10/26||OK||OK|OK|
-|6| 006.当我们在移动文件时，发生了什么？MacOS File Movements |https://forensic4cast.com/2016/10/macos-file-movements/|舜生Ree:2035153354|2016/10/17|2016/10/25|NULL|2016/10/30||OK||||
+|2|Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656)|http://jndok.github.io/2016/10/04/pegasus-writeup/|rodster@ccav10.cn(727542262)|2016/10/9|2016/10/17|NULL|2016/10/18 2016/10/20|OK|OK|OK|OK|OK|
+|3| 海马iOS应用商店助手各种恶意行为的研究 Helper for Haima iOS App Store Adds More Malicious Behavior |http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior/|rodster@ccav10.cn(727542262)|2016/10/9|2016/10/20|NULL|2016/10/24|OK|OK|OK|OK|OK|
+|4| 未越狱状态下的iOS插桩：iOS instrumentation without jailbreak |https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/|rodster@ccav10.cn(727542262)|2016/10/13|2016/10/23|NULL|2016/10/28|OK|OK|OK|OK|OK|
+|5| iOS软件在运行时究竟做了什么：Introspy-iOS |https://github.com/integrity-sa/Introspy-iOS|try_fly:247498009|2016/10/17|2016/10/20|NULL|2016/10/26|OK|OK|OK|OK|OK|
+|6| 006.当我们在移动文件时，发生了什么？MacOS File Movements |https://forensic4cast.com/2016/10/macos-file-movements/|舜生Ree:2035153354|2016/10/17|2016/10/25|NULL|2016/10/30|OK|OK|OK|OK|OK|
 |7| macOS Chrome密码破解 Decrypting Google Chrome Passwords on macOS / OS X |http://bufferovernoah.com/2016/10/17/chrome/|free:249099804|2016/10/18|2016/10/26|NULL|2016/11/3||||||
 |8| CVE-2016-6187: Exploiting Linux kernel heap off-by-one by Vitaly Nikolenko |https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit|rodster@ccav10.cn(727542262)|2016/10/18||NULL|||||||
 |9|LINUX SRP OVERWRITE AND ROP|http://buffered.io/posts/linux-srp-overwrite-and-rop/||2016/10/18||NULL|||||||
