@@ -1,9 +1,9 @@
-# OSG-macOS/iOS Security Group
+# OSG-macOS/iOS Security Group Translation Team
 看雪iOS安全小组的翻译团队作品合集，如有勘误/瑕疵/拗口/偏颇，欢迎斧正！
 
 
 
-#翻译团队计划
+#翻译团队
 
 Tags:[看雪,iOS安全小组,翻译团队,计划表,每日更新]
 
