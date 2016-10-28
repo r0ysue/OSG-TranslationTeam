@@ -30,3 +30,4 @@ TeamLeader：Rodster（看雪ID：leixyou）
 |19| OS X/iOS图像共享IO的UAF漏洞分析 OS X/iOS kernel use-after-free in IOSurface |https://bugs.chromium.org/p/project-zero/issues/detail?id=831||2016/10/26||||||||
 |20| task_t指针重大风险预报 task_t considered harmful |https://googleprojectzero.blogspot.kr/2016/10/taskt-considered-harmful.html||2016/10/26||||||||
 |21| task_t指针重大风险预报——PoC  task_t considered harmful - many XNU EoPs |https://bugs.chromium.org/p/project-zero/issues/detail?id=837||2016/10/26||||||||
+|22| IOKit被动Fuzz框架 PassiveFuzzFrameworkOSX |https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX||2016/10/28||||||||
