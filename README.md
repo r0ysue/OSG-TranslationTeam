@@ -28,7 +28,7 @@ TeamLeader：Rodster（看雪ID：leixyou）
 |17| OS X内核存储UAF漏洞分析 OS X kernel use-after-free in CoreStorage |https://bugs.chromium.org/p/project-zero/issues/detail?id=833||2016/10/26||||||||
 |18| OS X内核雷电IO系统UAF漏洞 OS X kernel use-after-free in IOThunderboltFamily |https://bugs.chromium.org/p/project-zero/issues/detail?id=834||2016/10/26||||||||
 |19| OS X/iOS图像共享IO的UAF漏洞分析 OS X/iOS kernel use-after-free in IOSurface |https://bugs.chromium.org/p/project-zero/issues/detail?id=831||2016/10/26||||||||
-|20| task_t指针重大风险预报 task_t considered harmful |https://googleprojectzero.blogspot.kr/2016/10/taskt-considered-harmful.html||2016/10/26|看雪翻译小组|||||||
+|20| task_t指针重大风险预报 task_t considered harmful |https://googleprojectzero.blogspot.kr/2016/10/taskt-considered-harmful.html|看雪翻译小组|2016/10/26||||||||
 |21| task_t指针重大风险预报——PoC  task_t considered harmful - many XNU EoPs |https://bugs.chromium.org/p/project-zero/issues/detail?id=837|看雪翻译小组|2016/10/26||||||||
 |22| IOKit被动Fuzz框架 PassiveFuzzFrameworkOSX |https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX|看雪翻译小组|2016/10/28||||||||
 |23| launchd中虚拟磁盘挂载尺寸分配问题导致UAF Controlled vm_deallocate size can lead to UaF in launchd |https://bugs.chromium.org/p/project-zero/issues/detail?id=896||2016/11/31||||||||
