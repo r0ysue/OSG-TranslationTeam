@@ -28,12 +28,12 @@ TeamLeader：Rodster（看雪ID：leixyou）
 |17| OS X内核存储UAF漏洞分析 OS X kernel use-after-free in CoreStorage |https://bugs.chromium.org/p/project-zero/issues/detail?id=833||2016/10/26||||||||
 |18| OS X内核雷电IO系统UAF漏洞 OS X kernel use-after-free in IOThunderboltFamily |https://bugs.chromium.org/p/project-zero/issues/detail?id=834||2016/10/26||||||||
 |19| OS X/iOS图像共享IO的UAF漏洞分析 OS X/iOS kernel use-after-free in IOSurface |https://bugs.chromium.org/p/project-zero/issues/detail?id=831||2016/10/26||||||||
-|20| task_t指针重大风险预报 task_t considered harmful |https://googleprojectzero.blogspot.kr/2016/10/taskt-considered-harmful.html||2016/10/26||||||||
-|21| task_t指针重大风险预报——PoC  task_t considered harmful - many XNU EoPs |https://bugs.chromium.org/p/project-zero/issues/detail?id=837||2016/10/26||||||||
-|22| IOKit被动Fuzz框架 PassiveFuzzFrameworkOSX |https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX||2016/10/28||||||||
+|20| task_t指针重大风险预报 task_t considered harmful |https://googleprojectzero.blogspot.kr/2016/10/taskt-considered-harmful.html||2016/10/26|看雪翻译小组|||||||
+|21| task_t指针重大风险预报——PoC  task_t considered harmful - many XNU EoPs |https://bugs.chromium.org/p/project-zero/issues/detail?id=837|看雪翻译小组|2016/10/26||||||||
+|22| IOKit被动Fuzz框架 PassiveFuzzFrameworkOSX |https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX|看雪翻译小组|2016/10/28||||||||
 |23| launchd中虚拟磁盘挂载尺寸分配问题导致UAF Controlled vm_deallocate size can lead to UaF in launchd |https://bugs.chromium.org/p/project-zero/issues/detail?id=896||2016/11/31||||||||
 |24| launchd中消息队列逻辑问题导致内核message控制 Logic issue in launchd message requeuing allows arbitrary mach message control |https://bugs.chromium.org/p/project-zero/issues/detail?id=893||2016/11/31||||||||
 |25| OSX/iOS中的内存端口注册中的内存安全问题 OS X/iOS multiple memory safety issues in mach_ports_register |https://bugs.chromium.org/p/project-zero/issues/detail?id=882||2016/11/31||||||||
 |26| 趋势科技研究员今年 7 月份在 HITCON 2016 会议的演讲《(P)FACE Into the Apple Core and Exploit to Root》 |http://hitcon.org/2016/CMT/slide/day1-r2-c-1.pdf||2016/11/31||||||||
 |27| 通过 OS X 的邮件规则实现持久控制 Using email for persistence on OS X |https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/||2016/11/31||||||||
-|27| Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户 https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/ |https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/||2016/11/31||||||||
+|28| Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户 |https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/||2016/11/31||||||||
