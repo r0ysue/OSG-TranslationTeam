@@ -14,7 +14,7 @@ TeamLeader：Rodster（看雪ID：leixyou）
 |3| 海马iOS应用商店助手各种恶意行为的研究 Helper for Haima iOS App Store Adds More Malicious Behavior |http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior/|rodster@ccav10.cn(727542262)|2016/10/9|2016/10/20|2016/10/24|OK|OK|OK|OK|OK|
 |4| 未越狱状态下的iOS插桩：iOS instrumentation without jailbreak |https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/|rodster@ccav10.cn(727542262)|2016/10/13|2016/10/23|2016/10/28|OK|OK|OK|OK|OK|
 |5| iOS软件在运行时究竟做了什么：Introspy-iOS |https://github.com/integrity-sa/Introspy-iOS|try_fly:247498009|2016/10/17|2016/10/20|2016/10/26|OK|OK|OK|OK|OK|
-|6| 006.当我们在移动文件时，发生了什么？MacOS File Movements |https://forensic4cast.com/2016/10/macos-file-movements/|舜生Ree:2035153354|2016/10/17|2016/10/25|2016/10/30|OK|OK|OK|OK|OK|
+|6| 当我们在移动文件时，发生了什么？MacOS File Movements |https://forensic4cast.com/2016/10/macos-file-movements/|舜生Ree:2035153354|2016/10/17|2016/10/25|2016/10/30|OK|OK|OK|OK|OK|
 |7| macOS Chrome密码破解 Decrypting Google Chrome Passwords on macOS / OS X |http://bufferovernoah.com/2016/10/17/chrome/|free:249099804|2016/10/18|2016/10/26|2016/11/3||||||
 |8| CVE-2016-6187: Exploiting Linux kernel heap off-by-one by Vitaly Nikolenko |https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit|rodster@ccav10.cn(727542262)|2016/10/18||||||||
 |9|LINUX SRP OVERWRITE AND ROP|http://buffered.io/posts/linux-srp-overwrite-and-rop/|布兜儿:527626504|2016/10/18||||||||
