@@ -1,11 +1,11 @@
 # OSG-macOS/iOS Security Group Translation Team
 看雪iOS安全小组的翻译团队作品合集，如有勘误/瑕疵/拗口/偏颇，欢迎斧正！
-
-
+> [新人请看]看雪iOS安全小组置顶向导资源集合贴：
+【逆向】【调试】【漏洞】【越狱】：http://bbs.pediy.com/showthread.php?t=212685
 
 #翻译团队
-TeamLeader：Rodster（看雪ID：leixyou）
-【新人请看】[看雪iOS安全小组]置顶向导集合贴：http://bbs.pediy.com/showthread.php?t=212685
+> TeamLeader：Rodster（看雪ID：leixyou）
+
 ---
 
 |编号|文章|来源网址|担当|依赖日期|交稿日期|发布日期|QQ群|公众号|看雪|知乎|微博
