@@ -5,13 +5,7 @@
 
 #翻译团队
 TeamLeader：Rodster（看雪ID：leixyou）
-
-微信公众号：
-
-![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81150.jpg)   
-
-新浪微博：
-![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)|
+［新人请看］[看雪iOS安全小组]置顶向导集合贴：http://bbs.pediy.com/showthread.php?t=212685
 ---
 
 |编号|文章|来源网址|担当|依赖日期|交稿日期|发布日期|QQ群|公众号|看雪|知乎|微博
