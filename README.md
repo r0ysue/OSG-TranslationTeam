@@ -5,7 +5,7 @@
 
 #翻译团队
 TeamLeader：Rodster（看雪ID：leixyou）
-［新人请看］[看雪iOS安全小组]置顶向导集合贴：http://bbs.pediy.com/showthread.php?t=212685
+【新人请看】[看雪iOS安全小组]置顶向导集合贴：http://bbs.pediy.com/showthread.php?t=212685
 ---
 
 |编号|文章|来源网址|担当|依赖日期|交稿日期|发布日期|QQ群|公众号|看雪|知乎|微博
