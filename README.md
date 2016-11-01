@@ -7,7 +7,7 @@
 TeamLeader：Rodster（看雪ID：leixyou）
 
 订阅：
-![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81150.jpg)![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81150.jpg)     ![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ---
 
