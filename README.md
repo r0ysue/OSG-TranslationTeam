@@ -5,6 +5,8 @@
 
 #翻译团队
 TeamLeader：Rodster（看雪ID：leixyou）
+![alt tag](https://raw.githubusercontent.com/r0ysue/OSG-TranslationTeam/blob/master/微信二维码150.jpg)![alt tag](https://raw.githubusercontent.com/r0ysue/OSG-TranslationTeam/blob/master/新浪微博二维码.jpg)
+
 ---
 
 |编号|文章|来源网址|担当|依赖日期|交稿日期|发布日期|QQ群|公众号|看雪|知乎|微博
