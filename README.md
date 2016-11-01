@@ -24,7 +24,7 @@
 |12|FRIDA框架简介：Welcome introduction、quickstart guide、installation、basic usage|http://www.frida.re/docs/home/|lockdown:527850864|2016/10/23||||||||
 |13|FRIDA框架简介：Modes ofoperation、Functions、Messages、iOS、Android|http://www.frida.re/docs/home/|lockdown:527850864|2016/10/23||||||||
 |14|FRIDA框架推出8.1 released|http://www.frida.re/news/2016/10/25/frida-8-1-released/|lockdown:527850864|2016/10/26||||||||
-|15| OS X蓝牙IO系统UAF漏洞分析 OS X kernel use-after-free in IOBluetoothFamily.kext |https://bugs.chromium.org/p/project-zero/issues/detail?id=830||2016/10/26||||||||
+|15| OS X蓝牙IO系统UAF漏洞分析 OS X kernel use-after-free in IOBluetoothFamily.kext |https://bugs.chromium.org/p/project-zero/issues/detail?id=830|布兜儿:527626504|2016/10/26||||||||
 |16| OS X/iOS磁盘镜像子系统UAF漏洞分析 OS X/iOS kernel use-after-free in IOHDIXController |https://bugs.chromium.org/p/project-zero/issues/detail?id=832||2016/10/26||||||||
 |17| OS X内核存储UAF漏洞分析 OS X kernel use-after-free in CoreStorage |https://bugs.chromium.org/p/project-zero/issues/detail?id=833||2016/10/26||||||||
 |18| OS X内核雷电IO系统UAF漏洞 OS X kernel use-after-free in IOThunderboltFamily |https://bugs.chromium.org/p/project-zero/issues/detail?id=834||2016/10/26||||||||
