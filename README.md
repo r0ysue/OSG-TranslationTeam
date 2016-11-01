@@ -6,7 +6,8 @@
 #翻译团队
 TeamLeader：Rodster（看雪ID：leixyou）
 
-微信公众号
+微信公众号：
+
 ![alt tag](https://github.com/r0ysue/OSG-TranslationTeam/blob/master/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81150.jpg)   
 
 新浪微博：
