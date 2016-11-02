@@ -24,7 +24,7 @@
 |12|FRIDA框架简介：Welcome introduction、quickstart guide、installation、basic usage|http://www.frida.re/docs/home/|lockdown:527850864|2016/10/23||||||||
 |13|FRIDA框架简介：Modes ofoperation、Functions、Messages、iOS、Android|http://www.frida.re/docs/home/|lockdown:527850864|2016/10/23||||||||
 |14|FRIDA框架推出8.1 released|http://www.frida.re/news/2016/10/25/frida-8-1-released/|lockdown:527850864|2016/10/26||||||||
-|15| OS X蓝牙IO系统UAF漏洞分析 OS X kernel use-after-free in IOBluetoothFamily.kext |https://bugs.chromium.org/p/project-zero/issues/detail?id=830|布兜儿:527626504|2016/10/26||||||||
+|15| OS X蓝牙IO系统UAF漏洞分析 OS X kernel use-after-free in IOBluetoothFamily.kext |https://bugs.chromium.org/p/project-zero/issues/detail?id=830 附上Exploit：https://www.exploit-db.com/exploits/40652/|布兜儿:527626504|2016/10/26||||||||
 |16| OS X/iOS磁盘镜像子系统UAF漏洞分析 OS X/iOS kernel use-after-free in IOHDIXController |https://bugs.chromium.org/p/project-zero/issues/detail?id=832||2016/10/26||||||||
 |17| OS X内核存储UAF漏洞分析 OS X kernel use-after-free in CoreStorage |https://bugs.chromium.org/p/project-zero/issues/detail?id=833||2016/10/26||||||||
 |18| OS X内核雷电IO系统UAF漏洞 OS X kernel use-after-free in IOThunderboltFamily |https://bugs.chromium.org/p/project-zero/issues/detail?id=834||2016/10/26||||||||
@@ -32,9 +32,11 @@
 |20| task_t指针重大风险预报 task_t considered harmful |https://googleprojectzero.blogspot.kr/2016/10/taskt-considered-harmful.html|看雪翻译小组|2016/10/26||||||||
 |21| task_t指针重大风险预报——PoC  task_t considered harmful - many XNU EoPs |https://bugs.chromium.org/p/project-zero/issues/detail?id=837|看雪翻译小组|2016/10/26||||||||
 |22| IOKit被动Fuzz框架 PassiveFuzzFrameworkOSX |https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX|看雪翻译小组|2016/10/28||||||||
-|23| launchd中虚拟磁盘挂载尺寸分配问题导致UAF Controlled vm_deallocate size can lead to UaF in launchd |https://bugs.chromium.org/p/project-zero/issues/detail?id=896||2016/11/31||||||||
-|24| launchd中消息队列逻辑问题导致内核message控制 Logic issue in launchd message requeuing allows arbitrary mach message control |https://bugs.chromium.org/p/project-zero/issues/detail?id=893||2016/11/31||||||||
-|25| OSX/iOS中的内存端口注册中的内存安全问题 OS X/iOS multiple memory safety issues in mach_ports_register |https://bugs.chromium.org/p/project-zero/issues/detail?id=882||2016/11/31||||||||
-|26| 趋势科技研究员今年 7 月份在 HITCON 2016 会议的演讲《(P)FACE Into the Apple Core and Exploit to Root》 |http://hitcon.org/2016/CMT/slide/day1-r2-c-1.pdf||2016/11/31||||||||
-|27| 通过 OS X 的邮件规则实现持久控制 Using email for persistence on OS X |https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/||2016/11/31||||||||
-|28| Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户 |https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/||2016/11/31||||||||
+|23| launchd中虚拟磁盘挂载尺寸分配问题导致UAF Controlled vm_deallocate size can lead to UaF in launchd |https://bugs.chromium.org/p/project-zero/issues/detail?id=896||2016/11/1||||||||
+|24| launchd中消息队列逻辑问题导致内核message控制 Logic issue in launchd message requeuing allows arbitrary mach message control |https://bugs.chromium.org/p/project-zero/issues/detail?id=893|看雪翻译小组|2016/11/1||||||||
+|25| OSX/iOS中的内存端口注册中的内存安全问题 OS X/iOS multiple memory safety issues in mach_ports_register |https://bugs.chromium.org/p/project-zero/issues/detail?id=882|看雪翻译小组|2016/11/1||||||||
+|26| 趋势科技研究员今年 7 月份在 HITCON 2016 会议的演讲《(P)FACE Into the Apple Core and Exploit to Root》 |http://hitcon.org/2016/CMT/slide/day1-r2-c-1.pdf|看雪翻译小组|2016/11/1||||||||
+|27| 通过 OS X 的邮件规则实现持久控制 Using email for persistence on OS X |https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/||2016/11/1||||||||
+|28| Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户 |https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/||2016/11/1||||||||
+|29| 通过 IO Kit 驱动走进 Ring-0︰Strolling into Ring-0 via IO Kit Drivers |https://ruxcon.org.au/assets/2016/slides/RuxCon_Wardle.pdf||2016/11/2||||||||
+|28| 提高iOS的健壮性及抗Fuzz技术 |https://ruxcon.org.au/assets/2016/slides/Make_iOS_App_more_Robust_and_Security_through_Fuzzing-1476442078.pdf||2016/11/2||||||||
