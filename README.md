@@ -44,3 +44,4 @@
 |30|iOS.GuiInject广告木马库分析 Analysis of iOS.GuiInject Adware Library |https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/||2016/11/9||||||||
 |31|iOS软件安全全局方法论 iOS Application Security Review Methodology |http://research.aurainfosec.io/ios-application-security-review-methodology/||2016/11/9||||||||
 |32|解码苹果上所有的Tokens decrypts/extracts all authorization tokens on macOS / OS X / OSX |https://github.com/manwhoami/MMeTokenDecrypt||2016/11/9||||||||
+|33|Lookout发布的iOS三叉戟漏洞的详细技术分析 Technical Analysis of the Pegasus Exploits on iOS |https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf||2016/11/9||||||||
