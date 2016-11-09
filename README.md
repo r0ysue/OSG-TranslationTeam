@@ -1,6 +1,5 @@
 # OSG-macOS/iOS Security Group Translation Team
 看雪iOS安全小组的翻译团队作品合集，如有勘误/瑕疵/拗口/偏颇，欢迎斧正！
-每周二更新  ^_6666
 > 看雪iOS安全小组置顶向导资源集合贴：
 [逆向][调试][漏洞][越狱]：http://bbs.pediy.com/showthread.php?t=212685
 
@@ -41,3 +40,7 @@
 |28| Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户 |https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/||2016/11/1||||||||
 |29| 通过 IO Kit 驱动走进 Ring-0︰Strolling into Ring-0 via IO Kit Drivers |https://ruxcon.org.au/assets/2016/slides/RuxCon_Wardle.pdf||2016/11/2||||||||
 |28| 提高iOS的健壮性及抗Fuzz技术 |https://ruxcon.org.au/assets/2016/slides/Make_iOS_App_more_Robust_and_Security_through_Fuzzing-1476442078.pdf||2016/11/2||||||||
+|29| iOS的WebView自动拨号的bug iOS WebView auto dialer bug |https://www.mulliner.org/blog/blosxom.cgi/security/ios_webview_auto_dialer.html||2016/11/9||||||||
+|30|iOS.GuiInject广告木马库分析 Analysis of iOS.GuiInject Adware Library |https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/||2016/11/9||||||||
+|31|iOS软件安全全局方法论 iOS Application Security Review Methodology |http://research.aurainfosec.io/ios-application-security-review-methodology/||2016/11/9||||||||
+|32|解码苹果上所有的Tokens decrypts/extracts all authorization tokens on macOS / OS X / OSX |https://github.com/manwhoami/MMeTokenDecrypt||2016/11/9||||||||
