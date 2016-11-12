@@ -16,10 +16,10 @@
 |4| 未越狱状态下的iOS插桩：iOS instrumentation without jailbreak |https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/|rodster@ccav10.cn(727542262)|2016/10/13|2016/10/23|2016/10/28|OK|OK|OK|OK|OK|
 |5| iOS软件在运行时究竟做了什么：Introspy-iOS |https://github.com/integrity-sa/Introspy-iOS|try_fly:247498009|2016/10/17|2016/10/20|2016/10/26|OK|OK|OK|OK|OK|
 |6| 当我们在移动文件时，发生了什么？MacOS File Movements |https://forensic4cast.com/2016/10/macos-file-movements/|舜生Ree:2035153354|2016/10/17|2016/10/25|2016/10/30|OK|OK|OK|OK|OK|
-|7| macOS Chrome密码破解 Decrypting Google Chrome Passwords on macOS / OS X |http://bufferovernoah.com/2016/10/17/chrome/|free:249099804|2016/10/18|2016/10/26|2016/11/3||||||
+|7| macOS Chrome密码破解 Decrypting Google Chrome Passwords on macOS / OS X |http://bufferovernoah.com/2016/10/17/chrome/|free:249099804|2016/10/18|2016/10/26|2016/11/3|OK|OK|OK|OK|OK|
 |8| CVE-2016-6187: Exploiting Linux kernel heap off-by-one by Vitaly Nikolenko |https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit|rodster@ccav10.cn(727542262)|2016/10/18||||||||
-|9|LINUX SRP OVERWRITE AND ROP|http://buffered.io/posts/linux-srp-overwrite-and-rop/|布兜儿:527626504|2016/10/18|2016/11/1|2016/11/5||||||
-|10| 基于python的开源LLDB前端GUI Voltron简介 |https://github.com/snare/voltron|拟人:75345771|2016/10/19|2016/10/25|2016/11/1||OK||||
+|9|LINUX SRP OVERWRITE AND ROP|http://buffered.io/posts/linux-srp-overwrite-and-rop/|布兜儿:527626504|2016/10/18|2016/11/1|2016/11/5|OK|OK|OK|OK|OK|
+|10| 基于python的开源LLDB前端GUI Voltron简介 |https://github.com/snare/voltron|拟人:75345771|2016/10/19|2016/10/25|2016/11/1|OK|OK|OK|OK|OK|
 |11| 基于 Frida 框架的 Objective-C 插桩方法 Objective-C Instrumentation with Frida |https://rotlogix.com/2016/03/20/objective-c-instrumentation-with-frida/|lockdown:527850864|2016/10/23||||||||
 |12|FRIDA框架简介：Welcome introduction、quickstart guide、installation、basic usage|http://www.frida.re/docs/home/|lockdown:527850864|2016/10/23||||||||
 |13|FRIDA框架简介：Modes ofoperation、Functions、Messages、iOS、Android|http://www.frida.re/docs/home/|lockdown:527850864|2016/10/23||||||||
