@@ -4,7 +4,7 @@
 [逆向][调试][漏洞][越狱]：http://bbs.pediy.com/showthread.php?t=212685
 
 #翻译团队
-> TeamLeader：Rodster（看雪ID：leixyou）
+> 维护by：yaren （看雪ID：yaren）
 
 ---
 
@@ -46,3 +46,4 @@
 |32|解码苹果上所有的Tokens decrypts/extracts all authorization tokens on macOS / OS X / OSX |https://github.com/manwhoami/MMeTokenDecrypt||2016/11/9||||||||
 |33|Lookout发布的iOS三叉戟漏洞的详细技术分析 Technical Analysis of the Pegasus Exploits on iOS |https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf||2016/11/9||||||||
 |34|攻击safari的JS引擎CVE-2016-4622详细分析 |http://phrack.org/papers/attacking_javascript_engines.html||2016/11/11||||||||
+|35|Mac平台上的广告蠕虫一览 |https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/||2016/11/23||||||||
