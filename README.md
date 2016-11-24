@@ -4,7 +4,7 @@
 [逆向][调试][漏洞][越狱]：http://bbs.pediy.com/showthread.php?t=212685
 
 #翻译团队
-> 维护by：yaren （看雪ID：yaren）
+> 维护by：yaren （看雪ID：西海）
 
 ---
 
