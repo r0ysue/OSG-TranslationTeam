@@ -39,15 +39,15 @@
 |27| 通过 OS X 的邮件规则实现持久控制 Using email for persistence on OS X |https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/||2016/11/1||||||||
 |28| Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户 |https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/||2016/11/1||||||||
 |29| 通过 IO Kit 驱动走进 Ring-0︰Strolling into Ring-0 via IO Kit Drivers |https://ruxcon.org.au/assets/2016/slides/RuxCon_Wardle.pdf||2016/11/2||||||||
-|28| 提高iOS的健壮性及抗Fuzz技术 |https://ruxcon.org.au/assets/2016/slides/Make_iOS_App_more_Robust_and_Security_through_Fuzzing-1476442078.pdf||2016/11/2||||||||
-|29| iOS的WebView自动拨号的bug iOS WebView auto dialer bug |https://www.mulliner.org/blog/blosxom.cgi/security/ios_webview_auto_dialer.html||2016/11/9||||||||
-|30|iOS.GuiInject广告木马库分析 Analysis of iOS.GuiInject Adware Library |https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/||2016/11/9||||||||
-|31|iOS软件安全全局方法论 iOS Application Security Review Methodology |http://research.aurainfosec.io/ios-application-security-review-methodology/||2016/11/9||||||||
-|32|解码苹果上所有的Tokens decrypts/extracts all authorization tokens on macOS / OS X / OSX |https://github.com/manwhoami/MMeTokenDecrypt||2016/11/9||||||||
-|33|Lookout发布的iOS三叉戟漏洞的详细技术分析 Technical Analysis of the Pegasus Exploits on iOS |https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf||2016/11/9||||||||
-|34|攻击safari的JS引擎CVE-2016-4622详细分析 |http://phrack.org/papers/attacking_javascript_engines.html||2016/11/11||||||||
-|35|Mac平台上的广告蠕虫一览 |https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/||2016/11/23||||||||
-|35|Mac 用户想防止被查水表?|https://github.com/drduh/macOS-Security-and-Privacy-Guide||||||||||
-|36|Mac 上恶意软件的总览|https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/||||||||||
-|37|阻止 iCloud 日历上的垃圾邮件邀请|http://t.cn/RfjMbGy  https://t.co/qOHXUYS6J3  https://t.co/PYGq7gNT4V
+|30| 提高iOS的健壮性及抗Fuzz技术 |https://ruxcon.org.au/assets/2016/slides/Make_iOS_App_more_Robust_and_Security_through_Fuzzing-1476442078.pdf||2016/11/2||||||||
+|31| iOS的WebView自动拨号的bug iOS WebView auto dialer bug |https://www.mulliner.org/blog/blosxom.cgi/security/ios_webview_auto_dialer.html||2016/11/9||||||||
+|32|iOS.GuiInject广告木马库分析 Analysis of iOS.GuiInject Adware Library |https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/||2016/11/9||||||||
+|33|iOS软件安全全局方法论 iOS Application Security Review Methodology |http://research.aurainfosec.io/ios-application-security-review-methodology/||2016/11/9||||||||
+|34|解码苹果上所有的Tokens decrypts/extracts all authorization tokens on macOS / OS X / OSX |https://github.com/manwhoami/MMeTokenDecrypt||2016/11/9||||||||
+|35|Lookout发布的iOS三叉戟漏洞的详细技术分析 Technical Analysis of the Pegasus Exploits on iOS |https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf||2016/11/9||||||||
+|36|攻击safari的JS引擎CVE-2016-4622详细分析 |http://phrack.org/papers/attacking_javascript_engines.html||2016/11/11||||||||
+|37|Mac平台上的广告蠕虫一览 |https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/||2016/11/23||||||||
+|38|Mac 用户想防止被查水表?|https://github.com/drduh/macOS-Security-and-Privacy-Guide||||||||||
+|39|Mac 上恶意软件的总览|https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/||||||||||
+|40|阻止 iCloud 日历上的垃圾邮件邀请|http://t.cn/RfjMbGy  https://t.co/qOHXUYS6J3  https://t.co/PYGq7gNT4V
 ||||||||||
