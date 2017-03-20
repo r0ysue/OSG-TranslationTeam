@@ -3,7 +3,7 @@
 > 看雪iOS安全小组置顶向导资源集合贴：
 [逆向][调试][漏洞][越狱]：http://bbs.pediy.com/showthread.php?t=212685
 
-#翻译团队
+# 翻译团队
 > 维护by：yaren （看雪ID：西海）
 
 ---
