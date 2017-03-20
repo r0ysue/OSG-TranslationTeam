@@ -16,7 +16,7 @@
 | Content Cell  | Content Cell  |right|
 
 
-| 编号 | 文章 | 来源网址 | 翻译 | 得票|
+
 |------|------|---------|-----|---|  
 |1|MacOS and iOS Internals, Volume III: Security & Insecurity|http:// newosxbook.com /files/moxii3   /AppendixA.pdf|rodster@ccav10.cn(727542262) everettjf@live.com(276751551)|
 |2|Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656)|http://jndok.github.io/2016/10/04/pegasus-writeup/|rodster@ccav10.cn(727542262)|
