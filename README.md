@@ -8,10 +8,10 @@
 
 ---
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header |third Header|
+| ------------- | ------------- |---|
+| Content Cell  | Content Cell  |right|
+| Content Cell  | Content Cell  |right|
 
 
 | 编号 | 文章 | 来源网址 | 翻译 | 得票
