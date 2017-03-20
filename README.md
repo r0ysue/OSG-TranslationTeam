@@ -12,6 +12,8 @@
 | ------------- | ------------- |---|
 | Content Cell  | Content Cell  |right|
 | Content Cell  | Content Cell  |right|
+| Content Cell  | Content Cell  |right|
+| Content Cell  | Content Cell  |right|
 
 
 | 编号 | 文章 | 来源网址 | 翻译 | 得票
