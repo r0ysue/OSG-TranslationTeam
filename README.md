@@ -8,15 +8,7 @@
 
 ---
 
-| First Header  | Second Header |third Header|
-| ------------- | ------------- |---|
-| Content Cell  | Content Cell  |right|
-| Content Cell  | Content Cell  |right|
-| Content Cell  | Content Cell  |right|
-| Content Cell  | Content Cell  |right|
-
-
-
+| 编号 | 文章 | 来源网址 | 翻译 | 得票|
 |------|------|---------|-----|---|  
 |1|MacOS and iOS Internals, Volume III: Security & Insecurity|http:// newosxbook.com /files/moxii3   /AppendixA.pdf|rodster@ccav10.cn(727542262) everettjf@live.com(276751551)|
 |2|Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656)|http://jndok.github.io/2016/10/04/pegasus-writeup/|rodster@ccav10.cn(727542262)|
@@ -58,22 +50,22 @@
 |38|Mac 用户想防止被查水表?|https://github.com/drduh/macOS-Security-and-Privacy-Guide|
 |39|Mac 上恶意软件的总览|https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/|
 |40|阻止 iCloud 日历上的垃圾邮件邀请|http://t.cn/RfjMbGy  https://t.co/qOHXUYS6J3  https://t.co/PYGq7gNT4V
-||||||||||
+|
 |41|绕过苹果系统的完整性保护 Bypassing Apple's System Integrity Protection|https://objective-see.com/blog/blog_0x14.html
-||||||||||
+|
 |42|在二进制代码中通过静态分析的方法检测 UAF 漏洞 |https://t.co/ulcgwGkRI7
-||||||||||
+|
 |43|趋势科技的一篇 Blog，谈利用 Dirty Cow 漏洞攻击 Android|http://blog.trendmicro.com/trendlabs-security-intelligence/new-flavor-dirty-cow-attack-discovered-patched/
-||||||||||
+|
 |44|以福昕阅读器为例实现高性能Fuzz Applied high-speed in-process fuzzing: the case of Foxit Reader |https://t.co/6MwdamAHJ4
-||||||||||
+|
 |45|Nginx本地提权漏洞详细报告[ OpenSourceProject ]  （CVE-2016-1247）Nginx Local Privilege Escalation Vulnerability Technical Analysis and Solution|http://blog.nsfocus.net/nginx-local-privilege-escalation-vulnerability-technical-analysis-solution/
-||||||||||
+|
 |46|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（1-15）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if 
-||||||||||
+|
 |47|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（16-30）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if 
-||||||||||
+|
 |48|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（31-45）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if 
-||||||||||
+|
 |49|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（46-62）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if 
 |50|macOS 10.12.2本地提权以及XNU port堆风水by蒸米大神：【https://jaq.alibaba.com/community/art/show?articleid=781 提权的exp源码也可以在我的github下载到：【https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher】       |https://jaq.alibaba.com/community/art/show?articleid=781
