@@ -17,7 +17,7 @@
 
 
 | 编号 | 文章 | 来源网址 | 翻译 | 得票|
-|:------------:|:-------------:|:-----:|:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|  
+|------|------|---------|-----|---|  
 |1|MacOS and iOS Internals, Volume III: Security & Insecurity|http:// newosxbook.com /files/moxii3   /AppendixA.pdf|rodster@ccav10.cn(727542262) everettjf@live.com(276751551)|
 |2|Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656)|http://jndok.github.io/2016/10/04/pegasus-writeup/|rodster@ccav10.cn(727542262)|
 |3| 海马iOS应用商店助手各种恶意行为的研究 Helper for Haima iOS App Store Adds More Malicious Behavior |http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior/|rodster@ccav10.cn(727542262)|
