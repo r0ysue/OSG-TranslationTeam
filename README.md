@@ -60,3 +60,5 @@
 |48|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（31-45）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if |
 |49|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（46-62）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if 
 |50|macOS 10.12.2本地提权以及XNU port堆风水by蒸米大神：【https://jaq.alibaba.com/community/art/show?articleid=781 提权的exp源码也可以在我的github下载到：【https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher】       |https://jaq.alibaba.com/community/art/show?articleid=781
+|51|逆向三星s6 sboot，part 01 |http://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
+|52|10.2.1上重打包iOS应用的方法 |http://www.vantagepoint.sg/blog/85-patching-and-re-signing-ios-apps
