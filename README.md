@@ -62,3 +62,26 @@
 |50|macOS 10.12.2本地提权以及XNU port堆风水by蒸米大神：【https://jaq.alibaba.com/community/art/show?articleid=781 提权的exp源码也可以在我的github下载到：【https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher】       |https://jaq.alibaba.com/community/art/show?articleid=781
 |51|逆向三星s6 sboot part 01 |http://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
 |52|10.2.1上重打包iOS应用的方法 |http://www.vantagepoint.sg/blog/85-patching-and-re-signing-ios-apps
+|53|iOS 10.3.1 Wifi芯片漏洞详解——by Project Zero Beniamini |https://googleprojectzero.blogspot.jp/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
+|54|PayBreak - 针对加密型勒索软件的防御机制（paper）|http://www0.cs.ucl.ac.uk/staff/G.Stringhini/papers/ransomware-ASIACCS2017.pdf
+|55|针对 Dorkbot Botnet 新变种的分析 part 1 |https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-fresh-variant-dorkbot-botnet/?utm_source=twitter&utm_campaign=Labs#sf66376233
+|56|针对 Dorkbot Botnet 新变种的分析 part 2 |https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-fresh-variant-dorkbot-botnet/?utm_source=twitter&utm_campaign=Labs#sf66376233
+|57|ian beer 亲自讲解iOS 10越狱用的mach portal的教程 上 |https://github.com/zhengmin1989/GreatiOSJailbreakMaterial/blob/master/iOS10_Mach_Portal.pdf
+|58|ian beer 亲自讲解iOS 10越狱用的mach portal的教程 中 |https://github.com/zhengmin1989/GreatiOSJailbreakMaterial/blob/master/iOS10_Mach_Portal.pdf
+|59|ian beer 亲自讲解iOS 10越狱用的mach portal的教程 下 |https://github.com/zhengmin1989/GreatiOSJailbreakMaterial/blob/master/iOS10_Mach_Portal.pdf
+|60|iOS 9 开始引入的内核完整性保护（KPP）功能是如何实现的 |https://xerub.github.io/ios/kpp/2017/04/13/tick-tock.html
+|61|支持macOS！-"leviathan - 大型安全审计工具包，支持大范围的服务探测、暴力破解、SQL注入检测以及运行自定义漏洞利用模块 |https://github.com/leviathan-framework/leviathan
+|62|用于生成密码表的单词库，大约有 24GB，字库在手，天下我有！ |https://github.com/berzerk0/Probable-Wordlists
+|63|[奇思妙想]有ID锁又如何，照样听音乐看视频，还能刷微博！ |https://pangujailbreak.com/bypass-icloud-free/
+|64|FlexiSpy 泄露的安卓间谍应用源码分析 第一部分|http://www.cybermerchantsofdeath.com/blog/2017/04/23/FlexiSpy.html
+|65|FlexiSpy 泄露的安卓间谍应用源码分析 第二部分|http://www.cybermerchantsofdeath.com/blog/2017/04/23/FlexiSpy-pt2.html
+|66|一个函数，两个bug part.1  |https://www.synack.com/2017/03/27/two-bugs-one-func/
+|67|一个函数，两个bug（含poc） part.2   |https://www.synack.com/2017/04/07/two-bugs-one-func-p2/  POC地址： https://pastebin.com/87fHLMQq
+|68|APFS苹果文件系统逆向初探  |https://blog.cugu.eu/post/apfs/
+|69|Safari Browser Array.concat 方法中越界的内存拷贝可导致内存破坏（CVE-2017-2464  |https://bugs.chromium.org/p/project-zero/issues/detail?id=1095
+|70|在 HITB AMS 2017 会议上，独立安全研究员 malerisch 分享了他是如何在趋势科技产品中挖掘到 200 个 CVE 的  |http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html
+|71| 昨天他又写了一篇 Blog 介绍了一个新发现的趋势科技 TDA 产品 Session 生成认证机制绕过的漏洞  |http://conference.hitb.org/hitbsecconf2017ams/materials/D1T1 - Steven Seeley and Roberto Suggi Liverani - I Got 99 Trends and a # Is All Of Them.pdf"
+|72| ZeroNights'2016会议首发的现代化C/C++ Fuzzer：从入门到精通（上）|https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md （截取前半部分）
+|73| ZeroNights'2016会议首发的现代化C/C++ Fuzzer：从入门到精通（下）|https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md （截取后半部分）
+|74| 售价10美元的树莓派Zero W介绍以及安装Kali上手体验  |https://null-byte.wonderhowto.com/how-to/set-up-kali-linux-new-10-raspberry-pi-zero-w-0176819/?utm_source=dlvr.it&utm_medium=twitter
+
