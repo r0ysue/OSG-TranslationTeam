@@ -84,4 +84,17 @@
 |72| ZeroNights'2016会议首发的现代化C/C++ Fuzzer：从入门到精通（上）|https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md （截取前半部分）
 |73| ZeroNights'2016会议首发的现代化C/C++ Fuzzer：从入门到精通（下）|https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md （截取后半部分）
 |74| 售价10美元的树莓派Zero W介绍以及安装Kali上手体验  |https://null-byte.wonderhowto.com/how-to/set-up-kali-linux-new-10-raspberry-pi-zero-w-0176819/?utm_source=dlvr.it&utm_medium=twitter
-
+|75| 安卓下的对Frida的检测方法（问：如何移植到iOS） |http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida
+|76| Pwn2Own 2017 Samuel Groß 攻击 Safari 所使用的 WebKit JSC::CachedCall UAF 漏洞的分析（CVE-2017-2491）(第一篇)  |https://phoenhex.re/2017-05-04/pwn2own17-cachedcall-uaf
+|77| Fox-IT 的研究员发现 Snake 恶意软件框架首次出现了攻击 MacOS 操作系统的版本  |https://blog.fox-it.com/2017/05/03/snake-coming-soon-in-mac-os-x-flavour/   Github： https://github.com/Neo23x0/signature-base/blob/master/yara/apt_snaketurla_osx.yar
+|78| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(一) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
+|79| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(二) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
+|80| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(三) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
+|81| 用fuzzing来高速挖洞_High_Speed_Bug_Discovery_with_Fuzzing | 
+|82| 无痛入门Linux用户态堆和堆风水 |https://sensepost.com/blog/2017/painless-intro-to-the-linux-userland-heap-and-heap-fengshui/
+|83| Flanker：CVE-2017–2448, 绕过OTR签名校验iCloud钥匙串秘密窃取 |https://medium.com/@longtermsec/bypassing-otr-signature-verification-to-steal-icloud-keychain-secrets-9e92ab55b605
+|84| Fuzz 工具 OSS-Fuzz 开源的 5 个月中，被用于测试了 47 个开源项目，发现了超过 1000 个 Bug(264 个潜在漏洞)  | https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html
+|85| Project Zero 研究员 Felix 总结的 iOS APP 层面的常见漏洞案例  | https://github.com/felixgr/secure-ios-app-dev
+|86| CIA那个用NSUnarchiver过沙盒的0day被beer挖出来了，还随手挖了修了一堆 IPC 过沙盒的洞  | https://bugs.chromium.org/p/project-zero/issues/detail?id=1168&can=1&q=owner%3Aianbeer%20modified-after%3A2017%2F5%2F22
+|87| 近期几款色情 App 开始大量在 Android 和 iOS 平台上传播，他们甚至找到了上架 Apple App Store 的方式  | http://blog.trendmicro.com/trendlabs-security-intelligence/pua-operation-spreads-thousands-explicit-apps-wild-legitimate-app-stores/
+|88| 两款用来破解 MacOS Keychain 的工具： KeychainCracker,chainbreaker  | KeychainCracker： https://github.com/macmade/KeychainCracker chainbreaker： https://github.com/n0fate/chainbreaker
