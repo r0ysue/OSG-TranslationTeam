@@ -98,3 +98,12 @@
 |86| CIA那个用NSUnarchiver过沙盒的0day被beer挖出来了，还随手挖了修了一堆 IPC 过沙盒的洞  | https://bugs.chromium.org/p/project-zero/issues/detail?id=1168&can=1&q=owner%3Aianbeer%20modified-after%3A2017%2F5%2F22
 |87| 近期几款色情 App 开始大量在 Android 和 iOS 平台上传播，他们甚至找到了上架 Apple App Store 的方式  | http://blog.trendmicro.com/trendlabs-security-intelligence/pua-operation-spreads-thousands-explicit-apps-wild-legitimate-app-stores/
 |88| 两款用来破解 MacOS Keychain 的工具： KeychainCracker,chainbreaker  | KeychainCracker： https://github.com/macmade/KeychainCracker chainbreaker： https://github.com/n0fate/chainbreaker
+|89| joker：使用joker抽取iOS 11的kernelcache|http://newosxbook.com/tools/joker.html
+|90| “捡到一个亿”系列：盘古Janus原型：云舒幻盾原型：伸缩性规模化分布式全自动蠕虫木马代码定位检测系统暨入侵预警与防御系统原型机白皮书 | http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf  Github地址：https://github.com/lmco/laikaboss
+|91|安全从业者的瑞士军刀——样本模块匹配搜索引擎 | https://virustotal.github.io/yara/
+|92| libimobiledevice，用来操纵iOS设备的跨平台本地协议库和工具库 | http://www.libimobiledevice.org/
+|93| 【大数据】工具分享：全自动YARA规则生成器：如何从病毒木马大数据样本中批量提取字符串指纹 | https://github.com/Neo23x0/yarGen  范例：https://www.bsk-consulting.de/2015/02/16/write-simple-sound-yara-rules/ 、https://www.bsk-consulting.de/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/、https://www.bsk-consulting.de/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/
+|94| macOS内核调试指南：Introduction to macOS Kernel Debugging |http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html 
+|95| 逆向macOS内核扩展模块“DSMOS”：Reversing a macOS Kernel Extension | http://lightbulbone.com/2016/10/11/dsmos-kext.html
+|96|栈反转技术简介和示例：Stack Pivoting | http://neilscomputerblog.blogspot.tw/2012/06/stack-pivoting.html
+|97| APT团队海莲花出新品啦——全新设计的高级macOS后门软体套件！The New and Improved macOS Backdoor from OceanLotus | https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus/
