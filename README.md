@@ -54,7 +54,7 @@
 |42|在二进制代码中通过静态分析的方法检测 UAF 漏洞 |https://t.co/ulcgwGkRI7 |
 |43|趋势科技的一篇 Blog，谈利用 Dirty Cow 漏洞攻击 Android|http://blog.trendmicro.com/trendlabs-security-intelligence/new-flavor-dirty-cow-attack-discovered-patched/ |
 |44|以福昕阅读器为例实现高性能Fuzz Applied high-speed in-process fuzzing: the case of Foxit Reader |https://t.co/6MwdamAHJ4 |
-|45|Nginx本地提权漏洞详细报告[ OpenSourceProject ]  （CVE-2016-1247）Nginx Local Privilege Escalation Vulnerability Technical Analysis and Solution|http://blog.nsfocus.net/nginx-local-privilege-escalation-vulnerability-technical-analysis-solution/ |
+|45|ARM汇编语言极速入门part 1~5|https://azeria-labs.com/writing-arm-assembly-part-1/ |
 |46|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（1-15）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if  |
 |47|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（16-30）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if  |
 |48|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（31-45）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if |
