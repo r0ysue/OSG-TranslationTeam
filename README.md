@@ -63,7 +63,7 @@
 |51|反病毒Yara规则生成器、病毒特征提取工具 |https://github.com/Neo23x0/yarGen|
 |52|10.2.1上重打包iOS应用的方法 |http://www.vantagepoint.sg/blog/85-patching-and-re-signing-ios-apps
 |53|iOS 10.3.1 Wifi芯片漏洞详解——by Project Zero Beniamini |https://googleprojectzero.blogspot.jp/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
-|54|PayBreak - 针对加密型勒索软件的防御机制（paper）|http://www0.cs.ucl.ac.uk/staff/G.Stringhini/papers/ransomware-ASIACCS2017.pdf
+|54|从iOS程序运行时的堆中提取敏感信息|https://blog.netspi.com/ios-tutorial-dumping-the-application-heap-from-memory/|
 |55|针对 Dorkbot Botnet 新变种的分析 part 1 |https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-fresh-variant-dorkbot-botnet/?utm_source=twitter&utm_campaign=Labs#sf66376233
 |56|针对 Dorkbot Botnet 新变种的分析 part 2 |https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-fresh-variant-dorkbot-botnet/?utm_source=twitter&utm_campaign=Labs#sf66376233
 |57|ian beer 亲自讲解iOS 10越狱用的mach portal的教程 上 |https://github.com/zhengmin1989/GreatiOSJailbreakMaterial/blob/master/iOS10_Mach_Portal.pdf
