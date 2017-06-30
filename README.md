@@ -107,3 +107,4 @@
 |95| 逆向macOS内核扩展模块“DSMOS”：Reversing a macOS Kernel Extension | http://lightbulbone.com/2016/10/11/dsmos-kext.html
 |96|栈反转技术简介和示例：Stack Pivoting | http://neilscomputerblog.blogspot.tw/2012/06/stack-pivoting.html
 |97| APT团队海莲花出新品啦——全新设计的高级macOS后门软体套件！The New and Improved macOS Backdoor from OceanLotus | https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus/
+|98| 如何在 macOS 中监控指定应用的 HTTPS 流量 | [Monitoring HTTPS Traffic of a Single App on OSX](https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus)/
