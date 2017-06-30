@@ -55,12 +55,12 @@
 |43|趋势科技的一篇 Blog，谈利用 Dirty Cow 漏洞攻击 Android|http://blog.trendmicro.com/trendlabs-security-intelligence/new-flavor-dirty-cow-attack-discovered-patched/ |
 |44|以福昕阅读器为例实现高性能Fuzz Applied high-speed in-process fuzzing: the case of Foxit Reader |https://t.co/6MwdamAHJ4 |
 |45|ARM汇编语言极速入门part 1~5|https://azeria-labs.com/writing-arm-assembly-part-1/ |
-|46|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（1-15）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if  |
-|47|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（16-30）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if  |
-|48|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（31-45）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if |
-|49|[Attack]机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg')（46-62）|http://t.cn/RI7q4v5      https://t.co/hnrKWDr8if 
-|50|macOS 10.12.2本地提权以及XNU port堆风水by蒸米大神：【https://jaq.alibaba.com/community/art/show?articleid=781 提权的exp源码也可以在我的github下载到：【https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher】       |https://jaq.alibaba.com/community/art/show?articleid=781
-|51|逆向三星s6 sboot part 01 |http://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
+|46|苹果FSEvent深层文件系统调用记录取证|http://nicoleibrahim.com/apple-fsevents-forensics/ |
+|47|二进制grep工具、还能高亮！|https://github.com/m4b/bingrep/ |
+|48|MacRansom,Mac上的勒索软件分析（带反调试、反虚拟机）|https://objective-see.com/blog/blog_0x1E.html |
+|49|IDA反汇编的一些小技巧|https://qmemcpy.github.io/post/ida-series-1-hex-rays| 
+|50|macOS 10.12.2本地提权以及XNU port堆风水by蒸米大神：【https://jaq.alibaba.com/community/art/show?articleid=781 提权的exp源码也可以在我的github下载到：【https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher】       |https://jaq.alibaba.com/community/art/show?articleid=781|
+|51|反病毒Yara规则生成器、病毒特征提取工具 |https://github.com/Neo23x0/yarGen|
 |52|10.2.1上重打包iOS应用的方法 |http://www.vantagepoint.sg/blog/85-patching-and-re-signing-ios-apps
 |53|iOS 10.3.1 Wifi芯片漏洞详解——by Project Zero Beniamini |https://googleprojectzero.blogspot.jp/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
 |54|PayBreak - 针对加密型勒索软件的防御机制（paper）|http://www0.cs.ucl.ac.uk/staff/G.Stringhini/papers/ransomware-ASIACCS2017.pdf
