@@ -71,10 +71,10 @@
 |59|ian beer 亲自讲解iOS 10越狱用的mach portal的教程 下 |https://github.com/zhengmin1989/GreatiOSJailbreakMaterial/blob/master/iOS10_Mach_Portal.pdf
 |60|iOS 9 开始引入的内核完整性保护（KPP）功能是如何实现的 |https://xerub.github.io/ios/kpp/2017/04/13/tick-tock.html
 |61|支持macOS！-"leviathan - 大型安全审计工具包，支持大范围的服务探测、暴力破解、SQL注入检测以及运行自定义漏洞利用模块 |https://github.com/leviathan-framework/leviathan
-|62|用于生成密码表的单词库，大约有 24GB，字库在手，天下我有！ |https://github.com/berzerk0/Probable-Wordlists
-|63|[奇思妙想]有ID锁又如何，照样听音乐看视频，还能刷微博！ |https://pangujailbreak.com/bypass-icloud-free/
-|64|FlexiSpy 泄露的安卓间谍应用源码分析 第一部分|http://www.cybermerchantsofdeath.com/blog/2017/04/23/FlexiSpy.html
-|65|FlexiSpy 泄露的安卓间谍应用源码分析 第二部分|http://www.cybermerchantsofdeath.com/blog/2017/04/23/FlexiSpy-pt2.html
+|62|[CODE REVIEW]TWEAK系列-respring之后弹自定义消息-PopUpOnStart|https://github.com/LacertosusRepo/Open-Source-Tweaks|
+|63|[CODE REVIEW]TWEAK系列-给调音量增加震动反馈-Volbrate|https://github.com/LacertosusRepo/Open-Source-Tweaks|
+|64|[CODE REVIEW]TWEAK系列-给控制中心增加震动反馈-HaptikCenter|https://github.com/LacertosusRepo/Open-Source-Tweaks|
+|65|[CODE REVIEW]TWEAK系列-每次respring之后给你播放一段音乐-SoundSpring|https://github.com/LacertosusRepo/Open-Source-Tweaks|
 |66|一个函数，两个bug part.1  |https://www.synack.com/2017/03/27/two-bugs-one-func/
 |67|一个函数，两个bug（含poc） part.2   |https://www.synack.com/2017/04/07/two-bugs-one-func-p2/  POC地址： https://pastebin.com/87fHLMQq
 |68|APFS苹果文件系统逆向初探  |https://blog.cugu.eu/post/apfs/
