@@ -81,9 +81,9 @@
 |69|Safari Browser Array.concat 方法中越界的内存拷贝可导致内存破坏（CVE-2017-2464  |https://bugs.chromium.org/p/project-zero/issues/detail?id=1095
 |70|在 HITB AMS 2017 会议上，独立安全研究员 malerisch 分享了他是如何在趋势科技产品中挖掘到 200 个 CVE 的  |http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html
 |71| 昨天他又写了一篇 Blog 介绍了一个新发现的趋势科技 TDA 产品 Session 生成认证机制绕过的漏洞  |http://conference.hitb.org/hitbsecconf2017ams/materials/D1T1 - Steven Seeley and Roberto Suggi Liverani - I Got 99 Trends and a # Is All Of Them.pdf"
-|72| ZeroNights'2016会议首发的现代化C/C++ Fuzzer：从入门到精通（上）|https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md （截取前半部分）
-|73| ZeroNights'2016会议首发的现代化C/C++ Fuzzer：从入门到精通（下）|https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md （截取后半部分）
-|74| 售价10美元的树莓派Zero W介绍以及安装Kali上手体验  |https://null-byte.wonderhowto.com/how-to/set-up-kali-linux-new-10-raspberry-pi-zero-w-0176819/?utm_source=dlvr.it&utm_medium=twitter
+|72|【Frida系列】Frida的基本功能|http://2015.zeronights.org/assets/files/23-Ravnas.pdf|
+|73|【Frida系列】通过案例入门Frida - learn by example|http://www.ninoishere.com/frida-learn-by-example/|
+|74|【Frida系列】逆向iOS过程中一些有用的Frida脚本 some useful frida script for iOS Reversing|https://github.com/as0ler/frida-scripts|
 |75| 安卓下的对Frida的检测方法（问：如何移植到iOS） |http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida
 |76| Pwn2Own 2017 Samuel Groß 攻击 Safari 所使用的 WebKit JSC::CachedCall UAF 漏洞的分析（CVE-2017-2491）(第一篇)  |https://phoenhex.re/2017-05-04/pwn2own17-cachedcall-uaf
 |77| Fox-IT 的研究员发现 Snake 恶意软件框架首次出现了攻击 MacOS 操作系统的版本  |https://blog.fox-it.com/2017/05/03/snake-coming-soon-in-mac-os-x-flavour/   Github： https://github.com/Neo23x0/signature-base/blob/master/yara/apt_snaketurla_osx.yar
