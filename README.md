@@ -91,7 +91,7 @@
 |79| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(二) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
 |80| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(三) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
 |81| 用fuzzing来高速挖洞_High_Speed_Bug_Discovery_with_Fuzzing | 
-|82| 无痛入门Linux用户态堆和堆风水 |https://sensepost.com/blog/2017/painless-intro-to-the-linux-userland-heap-and-heap-fengshui/
+|82| 无痛入门Linux用户态堆和堆风水 |https://sensepost.com/blog/2017/painless-intro-to-the-linux-userland-heap//
 |83| Flanker：CVE-2017–2448, 绕过OTR签名校验iCloud钥匙串秘密窃取 |https://medium.com/@longtermsec/bypassing-otr-signature-verification-to-steal-icloud-keychain-secrets-9e92ab55b605
 |84| Fuzz 工具 OSS-Fuzz 开源的 5 个月中，被用于测试了 47 个开源项目，发现了超过 1000 个 Bug(264 个潜在漏洞)  | https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html
 |85| Project Zero 研究员 Felix 总结的 iOS APP 层面的常见漏洞案例  | https://github.com/felixgr/secure-ios-app-dev
@@ -109,4 +109,7 @@
 |97| APT团队海莲花出新品啦——全新设计的高级macOS后门软体套件！The New and Improved macOS Backdoor from OceanLotus | https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus/
 |98| 如何在 macOS 中监控指定应用的 HTTPS 流量 | [Monitoring HTTPS Traffic of a Single App on OSX](https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus)/
 |99|macOS软件沙盒工具，监控所有文件和进程 | [filewatcher-a simple auditing utility for macOS](https://github.com/m3liot/filewatcher)/
-|100|不断更新Topic|才是重点|
+|100|谷歌推出的ssl流量记录器：解密并且记录进程的所有SSL流量信息|[ssl_logger_byGoogle_Github](https://github.com/google/ssl_logger)|
+|101|iOS_App二进制文件逆向指南|[ObjC篇:Reading iOS app binary files](https://appscreener.us/blog/?code=reading-ios-app-binary-files)<br />[Swift篇:Reading iOS app binary files. Part 2: Swift](https://appscreener.us/blog/?code=reading-ios-app-binary-files-part-2-swift)|
+|102|【Frida系列】Frida全局方法论和入门实例|[Unlocking secrets of proprietary software using Frida](http://slides.com/oleavr/frida-rmll-2017#/)[备用链接](https://prog2017.rmll.info/IMG/pdf/frida-rmll-2017.pdf)|
+|103|macOS和iOS的位置信息数据库dump下来|[Dump the contents of the location database files on iOS and macOS.](https://www.mac4n6.com/blog/2017/7/5/script-update-mac-ios-location-scraper-macos-and-ios-10-updates)|
