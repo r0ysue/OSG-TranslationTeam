@@ -116,3 +116,4 @@
 |104|【Frida系列】使用Frida从TeamViewer的内存中提取出密码|[Extract password from TeamViewer memory using Frida](https://github.com/vah13/extractTVpasswords/blob/master/README.md)|
 |105|【IDA系列】IDA 6.95最新进展：使用UTF-8从头开始构建并支持iOS源码级调试及直接调试dyld_shared_cache中的dylib|[News about the x64 edition](http://www.hexblog.com/?p=1096)|
 |106|【iOS内核漏洞讲解系列】树人哥讲解影响iOS5、6、7、8三年之久的setattrlist()漏洞|[setattrlist() iOS Kernel Vulnerability Explained](https://www.antid0te.com/blog.html)|
+|107|【IDA系列】IDA Pro 6.8 for mac破解版上手指南|文件在雪花群群文件里下载|
