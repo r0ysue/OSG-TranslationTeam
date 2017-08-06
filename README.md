@@ -114,3 +114,4 @@
 |102|【Frida系列】Frida全局方法论和入门实例|[Unlocking secrets of proprietary software using Frida](http://slides.com/oleavr/frida-rmll-2017#/)[备用链接](https://prog2017.rmll.info/IMG/pdf/frida-rmll-2017.pdf)|
 |103|macOS和iOS的位置信息数据库dump下来|[Dump the contents of the location database files on iOS and macOS.](https://www.mac4n6.com/blog/2017/7/5/script-update-mac-ios-location-scraper-macos-and-ios-10-updates)|
 |104|【Frida系列】使用Frida从TeamViewer的内存中提取出密码|[Extract password from TeamViewer memory using Frida](https://github.com/vah13/extractTVpasswords/blob/master/README.md)|
+|105|【IDA系列】IDA 6.95最新进展|[News about the x64 edition](http://www.hexblog.com/?p=1096)|
