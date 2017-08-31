@@ -117,3 +117,8 @@
 |105|【IDA系列】IDA 6.95最新进展：使用UTF-8从头开始构建并支持iOS源码级调试及直接调试dyld_shared_cache中的dylib|[News about the x64 edition](http://www.hexblog.com/?p=1096)|
 |106|【iOS内核漏洞讲解系列】树人哥讲解影响iOS5、6、7、8三年之久的setattrlist()漏洞|[setattrlist() iOS Kernel Vulnerability Explained](https://www.antid0te.com/blog.html)|
 |107|【IDA系列】IDA Pro 6.8 for mac破解版上手指南|文件在雪花群群文件里下载|
+|108|【IDA系列】IDA伴侣——FRIEND|[Flexible Register/Instruction Extender aNd Documentation](https://github.com/alexhude/FRIEND)|
+|109|【IDA系列】使用IDA Python插件加速分析集成系统固件镜像|[the life-changing magic of ida python embedded device edition](https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-IDAPython.pdf)<br>[IDAPython Embedded Toolkit](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)|
+|110|【iOS App安全】App逆向研究的方法|[RECON-BRX-2017-Analysing_ios_Apps](http://bbs.pediy.com/thread-220771.htm)|
+|111|【radare2系列】给r2加上可视化支持|[Bubble Struggle - Call Graph Visualization with Radare2](https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-Bubble_Struggle.pdf)|
+|112|【IDA系列】导出IDA的调试信息|[Exporting IDA Debug Information - Adam Schwalm](https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-Exporting-IDA-Debug-Information.pdf)|
