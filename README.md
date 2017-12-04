@@ -128,3 +128,4 @@
 |116|macOS High Sierra的'Secure Kernel Extension Loading'瓦特了|[High Sierra's 'Secure Kernel Extension Loading' is Broken](https://objective-see.com/blog/blog_0x21.html)|
 |117|“盲”逆向：iOS 应用 Blind 寻踪|["BLIND" Reversing - A Look At The Blind iOS App ](https://exceptionlevelone.blogspot.tw/2017/10/blind-reversing.html)、https://paper.seebug.org/440/|
 |118|给iOS添加根证书太简单了！|[Too Easy – Adding Root CA’s to iOS Devices](https://sensepost.com/blog/2016/too-easy-adding-root-cas-to-ios-devices/)|
+|119|在10.12 macOS Sierra上编译XNU内核|[Building the XNU kernel on Mac OS X Sierra (10.12.X)](https://0xcc.re/building-xnu-kernel-macosx-sierrra-10-12-x/)|
