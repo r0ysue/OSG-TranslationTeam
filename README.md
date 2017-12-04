@@ -126,3 +126,4 @@
 |114|【Git进阶】Git天梯图|[Git Cheat Sheet: Useful Commands, Tips and Tricks](https://sentheon.com/blog/git-cheat-sheet.html)|
 |115|从keychain为犯罪者进行“画像”|[Breaking into the iCloud Keychain](https://hitcon.org/2017/CMT/slide-files/d1_s2_r2.pdf)|
 |116|macOS High Sierra的'Secure Kernel Extension Loading'瓦特了|[High Sierra's 'Secure Kernel Extension Loading' is Broken](https://objective-see.com/blog/blog_0x21.html)|
+|117|“盲”逆向：iOS 应用 Blind 寻踪|["BLIND" Reversing - A Look At The Blind iOS App ](https://exceptionlevelone.blogspot.tw/2017/10/blind-reversing.html)、https://paper.seebug.org/440/|
