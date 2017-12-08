@@ -58,7 +58,7 @@
 |46|苹果FSEvent深层文件系统调用记录取证|http://nicoleibrahim.com/apple-fsevents-forensics/ |
 |47|二进制grep工具、还能高亮！|https://github.com/m4b/bingrep/ |
 |48|MacRansom,Mac上的勒索软件分析（带反调试、反虚拟机）|https://objective-see.com/blog/blog_0x1E.html |
-|49|IDA反汇编的一些小技巧|https://qmemcpy.github.io/post/ida-series-1-hex-rays| 
+|49|IDA反汇编的一些小技巧|https://qmemcpy.github.io/post/ida-series-1-hex-rays|
 |50|macOS 10.12.2本地提权以及XNU port堆风水by蒸米大神：【https://jaq.alibaba.com/community/art/show?articleid=781 提权的exp源码也可以在我的github下载到：【https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher】       |https://jaq.alibaba.com/community/art/show?articleid=781|
 |51|反病毒Yara规则生成器、病毒特征提取工具 |https://github.com/Neo23x0/yarGen|
 |52|10.2.1上重打包iOS应用的方法 |http://www.vantagepoint.sg/blog/85-patching-and-re-signing-ios-apps
@@ -90,7 +90,7 @@
 |78| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(一) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
 |79| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(二) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
 |80| Mobile Pwn2Own 2012 -WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748）(三) | https://scarybeastsecurity.blogspot.jp/2017/05/ode-to-use-after-free-one-vulnerable.html
-|81| 用fuzzing来高速挖洞_High_Speed_Bug_Discovery_with_Fuzzing | 
+|81| 用fuzzing来高速挖洞_High_Speed_Bug_Discovery_with_Fuzzing |
 |82| 无痛入门Linux用户态堆和堆风水 |https://sensepost.com/blog/2017/painless-intro-to-the-linux-userland-heap//
 |83| Flanker：CVE-2017–2448, 绕过OTR签名校验iCloud钥匙串秘密窃取 |https://medium.com/@longtermsec/bypassing-otr-signature-verification-to-steal-icloud-keychain-secrets-9e92ab55b605
 |84| Fuzz 工具 OSS-Fuzz 开源的 5 个月中，被用于测试了 47 个开源项目，发现了超过 1000 个 Bug(264 个潜在漏洞)  | https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html
@@ -103,7 +103,7 @@
 |91|安全从业者的瑞士军刀——样本模块匹配搜索引擎 | https://virustotal.github.io/yara/
 |92| libimobiledevice，用来操纵iOS设备的跨平台本地协议库和工具库 | http://www.libimobiledevice.org/
 |93| 【大数据】工具分享：全自动YARA规则生成器：如何从病毒木马大数据样本中批量提取字符串指纹 | https://github.com/Neo23x0/yarGen  范例：https://www.bsk-consulting.de/2015/02/16/write-simple-sound-yara-rules/ 、https://www.bsk-consulting.de/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/、https://www.bsk-consulting.de/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/
-|94| macOS内核调试指南：Introduction to macOS Kernel Debugging |http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html 
+|94| macOS内核调试指南：Introduction to macOS Kernel Debugging |http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
 |95| 逆向macOS内核扩展模块“DSMOS”：Reversing a macOS Kernel Extension | http://lightbulbone.com/2016/10/11/dsmos-kext.html
 |96|栈反转技术简介和示例：Stack Pivoting | http://neilscomputerblog.blogspot.tw/2012/06/stack-pivoting.html
 |97| APT团队海莲花出新品啦——全新设计的高级macOS后门软体套件！The New and Improved macOS Backdoor from OceanLotus | https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus/
@@ -129,3 +129,9 @@
 |117|“盲”逆向：iOS 应用 Blind 寻踪|["BLIND" Reversing - A Look At The Blind iOS App ](https://exceptionlevelone.blogspot.tw/2017/10/blind-reversing.html)、https://paper.seebug.org/440/|
 |118|给iOS添加根证书太简单了！|[Too Easy – Adding Root CA’s to iOS Devices](https://sensepost.com/blog/2016/too-easy-adding-root-cas-to-ios-devices/)|
 |119|在10.12 macOS Sierra上编译XNU内核|[Building the XNU kernel on Mac OS X Sierra (10.12.X)](https://0xcc.re/building-xnu-kernel-macosx-sierrra-10-12-x/)|
+|120|一步一步编译iOS的内核——arm64版本的XNU|[steps to build arm64 version of xnu-4570.1.46](https://gist.github.com/Proteas/fe7bbb4c1b35a50de5e44d7c121d9601)|
+|121|CVE-2017-5123爆破指南writeup|[Exploiting CVE-2017-5123](https://reverse.put.as/2017/11/07/exploiting-cve-2017-5123/) [视频地址](https://www.youtube.com/watch?v=tWuF2G2utJs)|
+|122|为什么root和空密码可以进系统？|[Why <blank> Gets You Root](https://objective-see.com/blog/blog_0x24.html)|
+|123|iOS11安全与隐私保护完整指南|iOS 11: A Complete Guide to iOS Security and Privacy](https://www.intego.com/mac-security-blog/ios-11-a-complete-guide-to-ios-security-and-privacy/)|
+|124|【IDA插件体验】IDALazy！|[Make your IDA Lazy!](https://github.com/L4ys/LazyIDA)|
+|125|【IDA插件体验】IDA代码覆盖率测试工具|[Lighthouse - Code Coverage Explorer for IDA Pro](https://github.com/gaasedelen/lighthouse)|
